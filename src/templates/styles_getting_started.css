@@ -1,0 +1,47 @@
+.Getting_Started {
+	border: 1px solid #cfcfcf; 
+	padding: 10px 10px 10px 10px;
+	background: #f7f7f7;
+	margin: 0px 100px 0px 100px;
+	text-align: left;
+}
+
+.Getting_Started .title {
+	border-bottom: 1px solid #cfcfcf;
+	padding: 10px 10px 0px 0px;
+}
+
+.Getting_Started .description {
+	padding: 10px 0px 0px 0px;
+	margin: 0px 0px 20px 20px;
+}
+
+.Getting_Started .options {
+	padding: 10px 0px 0px 0px;
+	margin: 0px 0px 20px 20px;
+}
+
+.Getting_Started .options .options_left {
+	float: left;
+}
+
+.Getting_Started .options .options_left .option {
+	margin-right: 10px; 
+	display: inline;
+}
+
+.Getting_Started .options .options_right { 
+	float: right; 
+}
+
+.Getting_Started .options .options_right .option { 
+	margin-right: 10px; 
+	display: inline; 
+}
+
+.Getting_Started .spacer {
+	border-bottom: 1px solid #cfcfcf;
+	padding: 10px 10px 5px;
+	margin-bottom: 10px;
+	margin: 0px 10px;
+}
